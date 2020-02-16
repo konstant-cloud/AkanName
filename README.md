@@ -24,7 +24,7 @@ You can get it on git-hub. From the repository, click + in the global sidebar an
 | User loads on to the page  |  User Views Landing page. |
 | User clicks on Home on the navigation bar  | User views title. |
 | User fills the form and submitt | Akan Name is displayed.  | 
-
+   
 ## Live Link
 
 use link to see the web page
