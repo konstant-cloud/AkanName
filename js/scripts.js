@@ -1,4 +1,4 @@
-function giveAckaName(){
+function giveAckaName(){   
     var Date = document.getElementById("inputDate").value;
     var dd = parseInt(Date);
     var Month = document.getElementById("inputMonth").value;
