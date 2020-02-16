@@ -1,6 +1,6 @@
 # Akan Name
 
-## Author
+## Author   
 Hamza Salat    
 
 ## Project Description
