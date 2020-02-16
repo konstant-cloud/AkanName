@@ -17,7 +17,7 @@ This web application allows users to know their Akan Names through filling the f
 
 You can get it on git-hub. From the repository, click + in the global sidebar and select Clone this repository under and get to work. Copy the https. From terminal use $ git clone ...
 
-## BDD  
+## BDD    
  
 | BEHAVIOUR | OUTPUT|
 |:------------------|:-----------|
