@@ -28,7 +28,7 @@ You can get it on git-hub. From the repository, click + in the global sidebar an
 ## Live Link
 
 use link to see the web page
-(http://127.0.0.1:5500/index.html?)
+(http://127.0.0.1:5500/)
 
 
 ## Contact Information
